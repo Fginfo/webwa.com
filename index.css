@@ -1,0 +1,16 @@
+.image{
+    background-color: rgba(243, 236, 236, 0.877);
+    width: 100%;
+    height:100vh ;
+}
+img{
+    margin-left: 50%;
+
+    cursor: pointer;
+}
+img:hover{
+    
+    margin-left: 50%;
+
+    cursor: pointer;
+}
